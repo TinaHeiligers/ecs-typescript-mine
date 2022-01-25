@@ -1,0 +1,21 @@
+{
+  "name": "ecs-typescript-mine",
+  "version": "1.0.0",
+  "description": "automatically generate ECS types for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "ECS",
+    "typescript",
+    "node",
+    "elastic",
+    "kibana"
+  ],
+  "author": "TIna Heiligers",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/core": "^3.5.1"
+  }
+}
